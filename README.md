@@ -6,7 +6,7 @@ Building at the intersection of Computer Vision, NLP, and Agentic Systems.
 
 ### 🔭 What I'm building
 
-- 🧠 **mega_ia** — Hybrid CNN-Transformer for deepfake detection with Genetic Algorithm initialization
+- 🧠 **mega_ia** — Multi-modal deepfake detection: GA-based weight merging (MeGA-IA v2) across audio (AASIST · RawNet2) and image (UniversalFakeDetect) models
 - 🎙️ **Hybrid-RAG-Agent** — Voice-enabled RAG assistant for e-commerce (Qwen 2.5 · ChromaDB · FastAPI · Redis)
 - 🚗 **Ride-flow** — Full-stack ride-hailing platform with MySQL DBMS, surge pricing & role-based access control
 - 🔍 **EZ-catch** — Enterprise AI agent monitor: intercepts LLM calls & OS commands with zero latency (mitmproxy · auditd · FastAPI · Next.js)
