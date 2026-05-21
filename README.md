@@ -12,8 +12,6 @@ Building at the intersection of Computer Vision, NLP, and Agentic Systems.
 - 🔍 **EZ-catch** — Enterprise AI agent monitor: intercepts LLM calls & OS commands with zero latency (mitmproxy · auditd · FastAPI · Next.js)
 
 ### 🛠️ Tech I work with
-
-### 🛠️ Tech I work with
 ```
 Languages   : Python · C++ · JavaScript · SQL
 AI/ML       : PyTorch · TensorFlow · Scikit-learn · OpenCV · HuggingFace
